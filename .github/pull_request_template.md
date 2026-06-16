@@ -10,7 +10,7 @@
 
 Tick what you've filled in. If a section is empty because you're just starting out, that's okay - write what you're planning to do instead.
 
-**⚽ FIFA World Cup Corner**
+**FIFA World Cup Corner**
 - [ ] My Nation & Why
 - [ ] Supporting Team in the Real World Cup 2026
 - [ ] All-Time Favourite Player
@@ -19,7 +19,7 @@ Tick what you've filled in. If a section is empty because you're just starting o
 - [ ] 2026 Predictions
 - [ ] μFIFA Tournament Goals
 
-**🏅 Portfolio Highlights**
+**Portfolio Highlights**
 - [ ] About Me (minimum 200 characters)
 - [ ] History of Open Source and Collaborative Contributions
 - [ ] History of Community Engagement
@@ -46,4 +46,4 @@ Add any additional context, links, or notes here.
 
 ---
 
-Welcome to the pitch. μFIFA World Cup 2026 - Festival of Innovation, Fellowship & Achievement. 🏆
+μFIFA World Cup 2026 - Festival of Innovation, Fellowship & Achievement
